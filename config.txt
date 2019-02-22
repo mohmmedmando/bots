@@ -1,0 +1,7 @@
+﻿prefix = !
+token=NTI0MDMxNTM1NDIzMTYwMzI4.D1Fq7w.CPEeSCWM1joDjkzuXFN42d8wwSI
+owner=313981543653834755
+---------------------------------------------
+prefix = ?
+token=NTI0MDMxNTM1NDIzMTYwMzI4.D1FzGQ.rqgMxO3cZnV-OktYCBm72yQFwQw
+owner=313981543653834755
